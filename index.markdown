@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: test
+title: Shufti 
 ---
+
+# Privacy Policy
 
 ## What permissions do we need?
 We require the following permissions to upload content:
