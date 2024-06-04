@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Privacy Policy
-
 ## What permissions do we need?
 We require the following permissions to upload content:
 
