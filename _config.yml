@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the webpage that hosts the privacy policy and terms of use for
   the Shufti App.
 baseurl: "/shufti-web" # the subpath of your site, e.g. /blog
-url: "https://shuftiapp.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://https://slantlive.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
