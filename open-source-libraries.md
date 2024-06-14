@@ -4,8 +4,6 @@ title: Open Source Libraries
 permalink: /open-source-libraries/
 ---
 
-# Open-source Libraries
-
 ## @aws-crypto/crc32
 
 - **Version**: 3.0.0
