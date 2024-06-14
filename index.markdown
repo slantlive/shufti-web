@@ -22,10 +22,15 @@ We don’t require permissions to use our application for viewing content, but w
 ## What information do we obtain?
 You elect to provide the following information when you create an account and use our Platform:
 
-- Registration information from signing in with existing social network (such as Facebook or Google) such as age, username, password, email, Name, Social Media ID, and profile image
+- Registration information from signing in with existing social network (such as Apple or Google) such as age, username, password, email, Name, Social Media ID, and profile image
 
-- In the event you remove Shufti and want to request the removal of any Facebook or Google data we have gathered, please send a request to: support@shuftiapp.com
+- In the event you remove Shufti and want to request the removal of any Apple or Google data we have gathered, please send a request to: support@shuftiapp.com
 
+## Privacy Best Practices
+You are solely responsible for ensuring that your photo uploads do not reveal sensitive information that could be used to track you or others. Be mindful of the content and metadata of the photos you upload.
+
+### Example:
+- Location may reveal your home address
 
 # Terms of Use 
 
@@ -53,6 +58,8 @@ We want individuals to stand behind their opinions and actions. As a result, thi
 - Use your real life name.
 - Create only one account.
 - Not share your password, give access to your account to others, or transfer your account to anyone else.
+- If you are under age 18, you may only use the Services with the consent of your parent or legal guardian.
+- Shufti requires everyone to be at least 13 years old before they can create an account (some regions like South Korea, Spain or Quebec have different age requirements). Creating an account with false info is a violation of our terms.
 We try to make Shufti broadly available to everyone, but you cannot use Shufti if:
 - You have previously violated our Terms of Service.
 
