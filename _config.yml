@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Privacy Policy, Terms of Use, and Open-source Libraries
+title: Terms of Use, Privacy Policy, and Open-source Libraries
 email: support@shuftiapp.com 
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog

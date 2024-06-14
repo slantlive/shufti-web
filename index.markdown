@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Shufti 
+title: Terms of Use and Privacy 
 ---
 
 # Terms of Use 
@@ -37,7 +37,7 @@ We try to make Shufti broadly available to everyone, but you cannot use Shufti i
 
 ## What can you do on Shufti?
 We want people to create and share content most near and dear to them with the world. We provide mechanisms for content to be reported and we may remove or restrict access to content in violation of our standards. 
-All content on Shufti is driven by you and others and is considered user-generated content (UGC). Incidental sexual content or offensive content is not permitted and will be removed by us. If you can and should report offensive content and/or behavior to: report@shuftiapp.com
+All content on Shufti is driven by you and others and is considered user-generated content (UGC). Incidental sexual content or offensive content is not permitted and will be removed by us. If you can and should report offensive content and/or behavior to: [report@shuftiapp.com](mailto:report@shuftiapp.com)
 
 ## Your Commitments
 By using Shufti, you agree to:
@@ -64,7 +64,7 @@ Our Rights: We may remove or block content that violates these Terms or our Comm
 We care about your privacy. Our Privacy Policy (section below) explains how we collect, use, and protect your personal information. By using Shufti, you agree to our data practices as described in the Privacy Policy.
 
 ## Contact Us
-If you have any questions about these Terms, please contact us at support@shuftiapp.com.
+If you have any questions about these Terms, please contact us at [support@shuftiapp.com](mailto:support@shuftiapp.com).
 
 # Privacy Policy
 
@@ -84,12 +84,10 @@ You elect to provide the following information when you create an account and us
 
 - Registration information from signing in with existing social network (such as Apple or Google) such as age, username, password, email, Name, Social Media ID, and profile image
 
-- In the event you remove Shufti and want to request the removal of any Apple or Google data we have gathered, please send a request to: support@shuftiapp.com
+- In the event you remove Shufti and want to request the removal of any Apple or Google data we have gathered, please send a request to: [support@shuftiapp.com](mailto:support@shuftiapp.com)
 
 ## Privacy Best Practices
 You are solely responsible for ensuring that your photo uploads do not reveal sensitive information that could be used to track you or others. Be mindful of the content and metadata of the photos you upload.
 
 ### Example:
 - Location may reveal your home address
-
-[Open Source Libraries](/open-source-libraries/)
