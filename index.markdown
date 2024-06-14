@@ -80,7 +80,7 @@ Liability: To the maximum extent permitted by law, Glimpse LLC is not liable for
 We may update these Terms from time to time. If we make significant changes, we will notify you by posting a notice on our app or sending an email. Your continued use of Shufti after changes take effect constitutes your acceptance of the new Terms.
 
 ## Termination
-We reserve the right to terminate or suspend your account at any time if you violate these Terms or our Community Guidelines. Upon termination, you continue to be bound by Sections 3, 4, 5, and 6 of these Terms.
+We reserve the right to terminate or suspend your account at any time if you violate these Terms or our Community Guidelines. Upon termination, you continue to be bound by the **Your Commitments**, **Content Ownership and Rights**, **Privacy and Data Security**, and **Limitations and Disclaimers** Sections of these Terms.
 
 ## Content Ownership and Rights
 Your Content: You retain ownership of any content you post on Shufti. However, by posting content, you grant us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to use, display, reproduce, and distribute your content.
