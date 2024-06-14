@@ -54,13 +54,13 @@ Share to the world your point of view. Develop your own platform and followers w
 We try our best to make this an enjoyable environment for everyone, but we need your help.
 
 ## Who can use Shufti?
-We want individuals to stand behind their opinions and actions. As a result, this provides accountability for a safe and community driven experience. You agree to:
+### We want individuals to stand behind their opinions and actions. As a result, this provides accountability for a safe and community driven experience. You agree to:
 - Use your real life name.
 - Create only one account.
 - Not share your password, give access to your account to others, or transfer your account to anyone else.
 - If you are under age 18, you may only use the Services with the consent of your parent or legal guardian.
 - Shufti requires everyone to be at least 13 years old before they can create an account (some regions like South Korea, Spain or Quebec have different age requirements). Creating an account with false info is a violation of our terms.
-We try to make Shufti broadly available to everyone, but you cannot use Shufti if:
+### We try to make Shufti broadly available to everyone, but you cannot use Shufti if:
 - You have previously violated our Terms of Service.
 
 ## What can you do on Shufti?
