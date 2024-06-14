@@ -6,32 +6,6 @@ layout: home
 title: Shufti 
 ---
 
-# Privacy Policy
-
-## What permissions do we need?
-We require the following permissions to upload content:
-
-- Camera (In order to take photos or record videos)
-
-- Storage (In order to save content to your content to your device or to allow for you to select your own content for upload)
-
-- GPS location (In order to geotag your content)
-
-We don’t require permissions to use our application for viewing content, but would strongly encourage you to allow us to collect your location data to provide yourself and others with the best possible experience.
-
-## What information do we obtain?
-You elect to provide the following information when you create an account and use our Platform:
-
-- Registration information from signing in with existing social network (such as Apple or Google) such as age, username, password, email, Name, Social Media ID, and profile image
-
-- In the event you remove Shufti and want to request the removal of any Apple or Google data we have gathered, please send a request to: support@shuftiapp.com
-
-## Privacy Best Practices
-You are solely responsible for ensuring that your photo uploads do not reveal sensitive information that could be used to track you or others. Be mindful of the content and metadata of the photos you upload.
-
-### Example:
-- Location may reveal your home address
-
 # Terms of Use 
 
 ## Welcome to Shufti, operated by Glimpse LLC. 
@@ -87,7 +61,34 @@ Your Content: You retain ownership of any content you post on Shufti. However, b
 Our Rights: We may remove or block content that violates these Terms or our Community Guidelines. We also reserve the right to suspend or terminate your account if you violate these Terms.
 
 ## Privacy and Data Security
-We care about your privacy. Our Privacy Policy (section above) explains how we collect, use, and protect your personal information. By using Shufti, you agree to our data practices as described in the Privacy Policy.
+We care about your privacy. Our Privacy Policy (section below) explains how we collect, use, and protect your personal information. By using Shufti, you agree to our data practices as described in the Privacy Policy.
 
 ## Contact Us
 If you have any questions about these Terms, please contact us at support@shuftiapp.com.
+
+# Privacy Policy
+
+## What permissions do we need?
+We require the following permissions to upload content:
+
+- Camera (In order to take photos or record videos)
+
+- Storage (In order to save content to your content to your device or to allow for you to select your own content for upload)
+
+- GPS location (In order to geotag your content)
+
+We don’t require permissions to use our application for viewing content, but would strongly encourage you to allow us to collect your location data to provide yourself and others with the best possible experience.
+
+## What information do we obtain?
+You elect to provide the following information when you create an account and use our Platform:
+
+- Registration information from signing in with existing social network (such as Apple or Google) such as age, username, password, email, Name, Social Media ID, and profile image
+
+- In the event you remove Shufti and want to request the removal of any Apple or Google data we have gathered, please send a request to: support@shuftiapp.com
+
+## Privacy Best Practices
+You are solely responsible for ensuring that your photo uploads do not reveal sensitive information that could be used to track you or others. Be mindful of the content and metadata of the photos you upload.
+
+### Example:
+- Location may reveal your home address
+
