@@ -49,4 +49,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 include:
-  - .well-known/
+  - ".well-known/"
