@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JURK427SJK.com.shufti.shuftiapp",
+        "paths": [ "/media/*" ]
+      }
+    ]
+  }
+}
